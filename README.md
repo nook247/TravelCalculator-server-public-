@@ -31,7 +31,7 @@
 - '항공권 평균가격 + 호텔 평균가격 + 평균 식비 = 전체 경비' 의 한 줄로 요약되는 요약 견적
 - 견적에 포함된 항공권, 호텔과 해당 도시의 주요 레스토랑 정보입니다.
 
-![20191211_201654](https://user-images.githubusercontent.com/49752614/70617231-7d673300-1c53-11ea-87cf-cd85971536f0.gif)
+![temp_1576063618161 -659236361](https://user-images.githubusercontent.com/49752614/70617861-e26f5880-1c54-11ea-99f0-bfe3753036b2.gif)
 ![temp_1576062282647 -660197056](https://user-images.githubusercontent.com/49752614/70616366-9a026b80-1c51-11ea-8f65-9dc55dd3bd86.gif)
 
 
