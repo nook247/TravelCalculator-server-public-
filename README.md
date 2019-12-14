@@ -54,9 +54,14 @@
 
 ### **Trends**
 
+![image](https://user-images.githubusercontent.com/49752614/70850471-fd98cd00-1ecd-11ea-9a6e-73e0f1290f93.png)
+
+
 Trends 페이지는 여행계산기의 수집데이터를 바탕으로 관심사, 연령대, 성별을 입력하게 되면 다른 유저들이 가장 많이 방문하는 도시를 보여드립니다. 더하여 관심사와 밀접한 landmark, store, 관광지를 기반으로 wordcluoud를 보여드리고 있습니다.
 
 ### **User-page**
+
+
 ![mypage](https://user-images.githubusercontent.com/49752614/70615350-91a93100-1c4f-11ea-9404-d8464b191b71.gif)
 
 
